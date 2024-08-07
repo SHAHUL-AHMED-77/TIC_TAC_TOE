@@ -52,18 +52,43 @@ Player X, enter a position (1-9): 1
    |   |   
 -----------
    |   |   
-Computer chooses position 5
+Computer chooses position 7
  X |   |   
------------
-   | O |   
 -----------
    |   |   
+-----------
+ O |   |   
+Player X, enter a position (1-9): 2
+ X | X |   
+-----------
+   |   |   
+-----------
+ O |   |
+Computer chooses position 3
+ X | X | O
+-----------
+   |   |
+-----------
+ O |   |
 Player X, enter a position (1-9): 9
- X |   |   
+ X | X | O
 -----------
-   | O |   
+   |   |
 -----------
-   |   | X 
+ O |   | X
+Computer chooses position 4
+ X | X | O
+-----------
+ O |   |
+-----------
+ O |   | X
+Player X, enter a position (1-9): 5
+ X | X | O
+-----------
+ O | X |
+-----------
+ O |   | X
+Player X wins!
 ...
 ```
 
@@ -73,7 +98,7 @@ Player X, enter a position (1-9): 9
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed 
 
 ## Contributing
 
